@@ -431,7 +431,7 @@ input.sidenote-toggle {
 /* Center title and paragraph */
 .abstract,
 .abstract p {
-  text-align: center;
+  text-align: justify;
   margin-top: 0;
 }
 .abstract {
